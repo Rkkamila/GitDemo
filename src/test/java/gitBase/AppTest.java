@@ -1,4 +1,4 @@
-package com.GitDemo;
+package gitBase;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

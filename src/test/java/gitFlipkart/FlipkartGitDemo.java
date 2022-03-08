@@ -1,4 +1,4 @@
-package com.qa.git.practice;
+package gitFlipkart;
 
 import java.util.ArrayList;
 
